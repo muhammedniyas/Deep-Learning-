@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-@author: P. Rajavel
+
 
 """
-# MNIST dataset DNN
+# Implementation of MNIST dataset character recognition using Keras framework 
 
 
 # fix dimension ordering issue
