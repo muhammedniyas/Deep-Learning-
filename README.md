@@ -1,2 +1,2 @@
 # Deep-Learning-
-A repository of my deep learning algorithms
+This is a repository of my implementation of deep learning techniques. In this repository, I will upload my codes on deep learning techniques. I am planning to upload various projects on deep learning architecture using neural networks. Moreover, I wil explain an in depth analysis of various deep learning algorithms with codes from the scratch coding (without libraries) for finding the drawbacks of already existing deep learning libraries. Let us code deep learning now. 
